@@ -1,4 +1,9 @@
 # PHP Validator
+`composer require sander/validation`
+
+[Packagist](https://packagist.org/packages/sander/validation)
+
+[Github](https://github.com/SunderShadow/php-validation)
 
 ## How to use
 
